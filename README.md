@@ -4,7 +4,7 @@ This is a quiz **for web developers or technical / IT person / security analyst*
 
 ### Some headlines :
 
-**A)** Take full control and secure like never your domain names and TLS identities by reducing the number of trusted third parties to zero.
+**A)** Take full control and secure like never your domain names and TLS identities by reducing the single points of failure to zero.
 
 Dappy is a new public name system that uses the blockchain and co-resolution for service discovery. The system is horizontally secure by a network of independant companies.
 
